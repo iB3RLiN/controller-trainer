@@ -15,7 +15,7 @@ A desktop application that trains muscle memory for Xbox controller button layou
 
 ## Screenshots
 
-![screenshot1](screenshot1.png)
+![screenshot](screenshot2.png)
 
 ## Download
 
