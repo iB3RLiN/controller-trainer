@@ -33,9 +33,4 @@ A desktop application that trains muscle memory for Xbox controller button layou
 - Windows 10 or 11
 - Any compatible game controller (Xbox, PlayStation, or DirectInput-compatible)
 
-## Built with
 
-- **Electron 42** + **React 19** + **Vite 7**
-- **Tailwind CSS 4** + **Framer Motion 12**
-- **Zustand 5** for state management
-- **Web Gamepad API** for button detection
